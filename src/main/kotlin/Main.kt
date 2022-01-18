@@ -1,5 +1,8 @@
 fun main() {
-
+var perritoDeCompañia : Perro = Doverman(70,40,5,"no","negro")
+    var perroSeguridad : Perro = Pitbull(80,60,7,"no",34)
+    var examenprog : Examen = ExamenMasRecu(12,8,22,1,3)
+    var examenlenguage : Examen = ExamenAmplia(20,2,23,1,6,12)
 }
 //Teoria 1ª herencia:
 /*Esta clase de herencia seria Especialización, Siendo Perro la clase padre y las dos siguientes las hijas especializando
